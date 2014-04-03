@@ -1,0 +1,93 @@
+
+/*Backgroud Colors CSS*/
+.container-bg1{
+background:#000000;}
+.container-bg2{
+background:#FF0000;}
+.container-bg3{
+background:#CCCCCC;}
+
+/*Padding left Style */ 
+.padleft{
+padding-left:7%;}
+.martop{
+margin-top:2%;}
+.marbot{
+margin-bottom:2%;}
+.marleft{
+margin-left:2%;}
+.marright{
+margin-right:2%;}
+.nopadding{
+padding:0;}
+.nomargin{
+margin:0;}
+
+/*Menu Style CSS*/
+
+.nav-wrapper{
+background:#42ACE9;
+height:50px;
+}
+
+.menu-top{
+background:#990000;
+height:50px;
+}
+
+/*Content loop Style*/
+.main-loop{
+height:100%;
+margin-bottom:20px;}
+
+.post-title{
+font-weight:900;
+font-size:28px;}
+
+.post-title a:hover{
+color:#178ACC;}
+
+
+
+/*Sidebar Style*/
+.sidebar{
+height:100%;
+}
+.wid-title{
+font-size:18px;}
+
+
+
+/*No padding / margin */
+
+.nopadmar {
+padding: 0 !important;
+margin: 0 !important;
+}
+
+/*Border none Style */ 
+
+.no_border_radius{
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;}
+
+
+/*bootstrap fonts size style*/
+
+.glyphicon-2x {
+    font-size: 20px;
+}
+
+/*Footer Classes Ans Style*/
+
+.primery-footer{
+background:#48AEE9;
+padding-top:20px;}
+
+.clear{
+margin:0;
+padding:0;
+width:0;
+height:0;
+clear:both;}
