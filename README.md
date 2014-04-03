@@ -5,3 +5,7 @@ Simplistic - Copyright © All rights reserved 2014 <span class="glyphicon glyphi
 
 =====
 Theme: Simplistic by <a target="_blank" href="http://thememonstor.com/" >ThemeMonstor.com</a>
+
+
+======
+HTML Template DEMO <a target="_blank" href="https://dl.dropboxusercontent.com/u/52911136/bootstrap/index.html" >Click For DEMO</a>
