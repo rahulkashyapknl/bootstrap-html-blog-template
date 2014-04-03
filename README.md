@@ -1,8 +1,3 @@
-test
+bootstrap html blog template
 ====
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/rahulkashyapknl/test.git
-git push -u origin master
+
