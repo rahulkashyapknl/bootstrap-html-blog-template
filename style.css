@@ -85,6 +85,19 @@ border-radius: 0px;}
 background:#48AEE9;
 padding-top:20px;}
 
+.last-footer{
+background:#F5F5F5;
+}
+.fot-text-left{
+height:50px;
+font-weight:bold;
+line-height:50px;}
+.fot-text-right{
+height:50px;
+line-height:50px;
+font-weight:bold;
+text-align:right;}
+
 .clear{
 margin:0;
 padding:0;
